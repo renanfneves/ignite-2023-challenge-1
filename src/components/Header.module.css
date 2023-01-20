@@ -1,0 +1,6 @@
+.container {
+  height: 12.5rem;
+  background: var(--gray-700);
+  display: grid;
+  place-content: center;
+}
